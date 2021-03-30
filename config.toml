@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://latamone.vercel.app/"
 languageCode = "en"
-title = "Ninyy"
+title = "Latamone"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -94,11 +94,11 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+34944461906"
+email = "pamab@gmail.com"
+location = "San Agustín Estrata, 9, 48007 Bilbo, Bizkaia, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://latamone.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
